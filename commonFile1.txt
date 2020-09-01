@@ -1,5 +1,6 @@
 master{
 file1생성1
+file1생성2
 }
 
 branch{
