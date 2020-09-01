@@ -1,8 +1,0 @@
-master{
-file1231�깮�꽦1
-file1�412깮�꽦2
-}
-
-branch{
-블라
-}
